@@ -16,6 +16,6 @@ lang: uk
 святкування — Чернігів.
 
 Вартість участі — 500 грн. Реєстрація обов'язкова, [за посиланням на
-Google Forms](https://docs.google.com/forms/d/1yJ_JfeTCoXKrIg2mR5Sr8uNCLOB3MxheMWhTstt-vEs/)
+Google Forms](https://docs.google.com/forms/d/1yJ_JfeTCoXKrIg2mR5Sr8uNCLOB3MxheMWhTstt-vEs/).
 Прохання не затягувати з реєстрацією, бо потрібно ще визначитися з місцем
 проведення та замовити його.
